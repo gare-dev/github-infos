@@ -1,0 +1,29 @@
+.box {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.input {
+  background-color: rgb(241, 241, 243);
+  width: 600px;
+  height: 60px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  padding-left: 20px;
+  color: rgb(0, 0, 0);
+  
+}
+
+.input::placeholder{
+    color: rgb(185, 185, 185);
+    font-size: 20px;
+}
+
+.boxfrombox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  padding-right: 40px;
+}

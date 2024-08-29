@@ -1,0 +1,13 @@
+.button {
+    height: 60px;
+    width: 60px;
+    background-color: rgb(73, 69, 69);
+    position: relative;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
